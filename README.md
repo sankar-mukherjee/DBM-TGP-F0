@@ -10,3 +10,28 @@ result_DBMTGP.m => DBM-TGP combined algo
 
 
 SYNTHESIS.m  => synthesis of generated F0 contur with MLSA filter
+----
+Please cite this paper if you use the tool.
+
+http://www.isca-speech.org/archive/interspeech_2014/i14_2445.html
+
+S. Mukherjee, S. K. Das Mandal, Generation of F0 Contour using Deep Boltzmann Machine and Twin Gaussian Process Hybrid Model for Bengali Language, Interspeech-2014.
+
+bibtex
+```
+@inproceedings{DBLP:conf/interspeech/MukherjeeM14,
+  author    = {Sankar Mukherjee and
+               Shyamal Kumar Das Mandal},
+  title     = {Generation of {F0} contour using deep boltzmann machine and twin Gaussian
+               process hybrid model for bengali language},
+  booktitle = {{INTERSPEECH} 2014, 15th Annual Conference of the International Speech
+               Communication Association, Singapore, September 14-18, 2014},
+  pages     = {2445--2449},
+  year      = {2014},
+  crossref  = {DBLP:conf/interspeech/2014},
+  url       = {http://www.isca-speech.org/archive/interspeech_2014/i14_2445.html},
+  timestamp = {Wed, 18 Feb 2015 08:38:47 +0100},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/interspeech/MukherjeeM14},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+```
