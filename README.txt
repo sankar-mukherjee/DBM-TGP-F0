@@ -4,12 +4,15 @@ It's a method for synthesizing F0 contours of Bengali readout speech from the te
 
 ----
 ROOT.m  => Main program
+
 data_preprocess_class.m  => Preprosessing of data when output F0 is considered as class ranging from 75Hz-500Hz
+
 data_preprocess_reg.m  => Preprosessing of data when output F0 is considered as a single value
+
 result_DBMTGP.m => DBM-TGP combined algo
 
-
 SYNTHESIS.m  => synthesis of generated F0 contur with MLSA filter
+
 ----
 Please cite this paper if you use the tool.
 
