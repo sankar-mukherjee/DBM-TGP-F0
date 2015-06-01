@@ -2,6 +2,8 @@
 
 It's a method for synthesizing F0 contours of Bengali readout speech from the textual features of input text using Deep Boltzmann Machine (DBM) and Twin Gaussian Process (TGP) hybrid model. DBM will capture the high-level linguistic structure of input text and improve the prediction accuracy when plug into the TGP model. Unlike Gaussian Process (GP) models which only focus on the prediction of a single output (F0), TGP can generalize across multiple outputs (F0, delta F0, delta-delta F0) by encoding relations between both inputs and outputs with GP priors.
 
+https://sites.google.com/site/mukherjesankar/-previous-work/bengspeech/dbm-tgp
+
 ----
 ROOT.m  => Main program
 
